@@ -1,5 +1,6 @@
 # React + Vite
 
 
-//1- Hasta el 303
-//2- Hasta el 310
+In this project i used react, redux and redux toolkit, is a journal in that you can add notes with title, description and images.
+
+The notes is saving in firebase and the images in cloudinary.
